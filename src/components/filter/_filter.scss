@@ -1,0 +1,40 @@
+.filter {
+	margin-bottom: 20px;
+}
+.selects {
+	display: flex;
+	gap: 20px;
+	justify-content: center;
+}
+.buttons {
+	display: flex;
+	gap: 20px;
+	justify-content: center;
+	&__import {
+		label {
+			width: 75px;
+			height: 30px;
+			background-color: #343a40;
+			text-align: center;
+			color: #fff;
+			cursor: pointer;
+		}
+		&:hover {
+			box-shadow: 0px 0px 10px 1px black;
+		}
+	}
+	&__export {
+		width: 75px;
+		height: 30px;
+		text-align: center;
+		background-color: #343a40;
+		a {
+			text-align: center;
+			text-decoration-line: none;
+			color: #fff;
+		}
+		&:hover {
+			box-shadow: 0px 0px 10px 1px black;
+		}
+	}
+}

@@ -1,0 +1,12 @@
+.edit {
+	padding: 0 10px;
+	&:focus {
+		background-color: aqua;
+	}
+}
+.delete {
+	padding: 0 10px;
+	&:active {
+		background-color: aqua;
+	}
+}
