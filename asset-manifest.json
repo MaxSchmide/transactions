@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/transactions/static/css/main.f86f692e.css",
+    "main.js": "/transactions/static/js/main.fd603cfd.js",
+    "index.html": "/transactions/index.html",
+    "main.f86f692e.css.map": "/transactions/static/css/main.f86f692e.css.map",
+    "main.fd603cfd.js.map": "/transactions/static/js/main.fd603cfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f86f692e.css",
+    "static/js/main.fd603cfd.js"
+  ]
+}
